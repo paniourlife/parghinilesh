@@ -38,7 +38,7 @@ body
 margin: -10px;
 position: relative;
 background-color:#c6fced;	
-padding-top:80px;
+padding-top:50px;
 font-size: 30px;
 }
 
@@ -122,6 +122,9 @@ font-size: 30px;
 	background-color: #66BFBF;
 }
 
+.contact-gif{
+	margin-right: -150px;
+}
 .footer-link{
 	color: #11999E;
 	font-size: 20px;
